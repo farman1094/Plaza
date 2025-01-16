@@ -21,4 +21,4 @@
 	url = https://github.com/0xsequence/create3
 [submodule "plaza-evm/lib/balancer-v2-monorepo"]
 	path = plaza-evm/lib/balancer-v2-monorepo
-	url = https://github.com/balancer/balancer-v2-monorepo.git
+	url = https://github.com/balancer/balancer-v2-monorepo
