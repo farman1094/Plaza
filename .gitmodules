@@ -4,15 +4,15 @@
 [submodule "plaza-evm/lib/openzeppelin-contracts-upgradeable"]
 	path = plaza-evm/lib/openzeppelin-contracts-upgradeable
 	url = https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable
-[submodule "plaza-evm/lib/v3-periphery"]
-	path = plaza-evm/lib/v3-periphery
-	url = https://github.com/Uniswap/v3-periphery
-[submodule "plaza-evm/lib/chainlink"]
-	path = plaza-evm/lib/chainlink
-	url = https://github.com/smartcontractkit/chainlink
-[submodule "plaza-evm/lib/v3-core"]
-	path = plaza-evm/lib/v3-core
-	url = https://github.com/Uniswap/v3-core
+# [submodule "plaza-evm/lib/v3-periphery"]
+# 	path = plaza-evm/lib/v3-periphery
+# 	url = https://github.com/Uniswap/v3-periphery
+# [submodule "plaza-evm/lib/chainlink"]
+# 	path = plaza-evm/lib/chainlink
+# 	url = https://github.com/smartcontractkit/chainlink
+# [submodule "plaza-evm/lib/v3-core"]
+# 	path = plaza-evm/lib/v3-core
+# 	url = https://github.com/Uniswap/v3-core
 [submodule "plaza-evm/lib/openzeppelin-foundry-upgrades"]
 	path = plaza-evm/lib/openzeppelin-foundry-upgrades
 	url = https://github.com/OpenZeppelin/openzeppelin-foundry-upgrades
